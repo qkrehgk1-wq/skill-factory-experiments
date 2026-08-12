@@ -1,0 +1,27 @@
+{
+  "name": "skill-factory-experiments",
+  "owner": {
+    "name": "qkrehgk1-wq"
+  },
+  "description": "Three domain-expert Claude Code skills (real-estate auction risk analysis, SEO longtail keyword strategy, e-commerce listing optimization) built to test whether a 'knowledge -> SKILL.md' pipeline generalizes across unrelated domains.",
+  "plugins": [
+    {
+      "name": "real-estate-auction-analysis",
+      "source": "./plugins/real-estate-auction-analysis",
+      "description": "Analyzes Korean court real-estate auction listings for encumbrances the winning bidder would inherit (senior liens, tenants with priority). Reference checklist, not legal advice.",
+      "category": "domain-expertise"
+    },
+    {
+      "name": "seo-longtail-keyword-strategy",
+      "source": "./plugins/seo-longtail-keyword-strategy",
+      "description": "Judges whether a keyword is winnable for a small/new site before you write the post, using search-intent and competitor-type signals instead of gut feel.",
+      "category": "domain-expertise"
+    },
+    {
+      "name": "smartstore-listing-optimization",
+      "source": "./plugins/smartstore-listing-optimization",
+      "description": "Reviews an e-commerce product listing (title, image, detail page, price) for exposure vs. conversion problems, and flags deceptive-advertising risk (undisclosed paid reviews, guaranteed-effect claims).",
+      "category": "domain-expertise"
+    }
+  ]
+}

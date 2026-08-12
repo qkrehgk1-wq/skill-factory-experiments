@@ -1,0 +1,8 @@
+{
+  "name": "seo-longtail-keyword-strategy",
+  "description": "Judges whether a keyword is winnable for a small/new site before you write the post, using search-intent, competitor-type, and site-differentiation signals instead of gut feel.",
+  "version": "1.0.0",
+  "author": { "name": "qkrehgk1-wq" },
+  "license": "MIT",
+  "keywords": ["seo", "content-strategy", "keyword-research"]
+}

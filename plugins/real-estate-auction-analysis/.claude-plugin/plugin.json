@@ -1,0 +1,8 @@
+{
+  "name": "real-estate-auction-analysis",
+  "description": "Analyzes Korean court real-estate auction listings for encumbrances the winning bidder would inherit (senior liens, tenants with priority, unrecorded liens to field-check). Reference checklist, not legal advice.",
+  "version": "1.0.0",
+  "author": { "name": "qkrehgk1-wq" },
+  "license": "MIT",
+  "keywords": ["real-estate", "auction", "korea", "due-diligence"]
+}

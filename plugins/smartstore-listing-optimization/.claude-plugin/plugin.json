@@ -1,0 +1,8 @@
+{
+  "name": "smartstore-listing-optimization",
+  "description": "Reviews an e-commerce product listing (title, image, detail page, price) for exposure vs. conversion problems, and flags deceptive-advertising risk (undisclosed paid reviews, guaranteed-effect claims).",
+  "version": "1.0.0",
+  "author": { "name": "qkrehgk1-wq" },
+  "license": "MIT",
+  "keywords": ["ecommerce", "marketing", "listing-optimization", "korea"]
+}
